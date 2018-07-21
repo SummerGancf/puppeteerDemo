@@ -1,0 +1,19 @@
+{
+  "name": "puppeteerdemo",
+  "version": "1.0.0",
+  "description": "puppeteer example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "summer.gan",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.3.0",
+    "jest": "^22.0.0",
+    "puppeteer": "^1.5.0"
+  }
+}
